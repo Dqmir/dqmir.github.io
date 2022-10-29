@@ -1,0 +1,16 @@
+.hide{
+	display:none;
+}
+.myDIV:hover + .hide{
+	display: block;
+	color: white;
+	font-family: arial;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+}
+.country{
+	position: relative;
+	bottom offset: 20px;
+}
+
